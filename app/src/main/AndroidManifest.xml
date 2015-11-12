@@ -27,7 +27,7 @@
 
         <meta-data
             android:name="io.fabric.ApiKey"
-            android:value="0d37cf9668b4c6a2cb762a4a42d817b72f2d6b3a" />
+            android:value="0d37cf9668b4c6a2cb762a4a42d817b12f2d6b3a" />
 
         <activity
             android:name=".TwitterActivity"
