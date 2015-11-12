@@ -2,7 +2,7 @@
     <string name="app_name">Facebook Twitter Google Logins</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="title_activity_facebook">FacebookActivity</string>
-    <string name="facebook_app_id">362827570557385</string>
+    <string name="facebook_app_id">362827520557381</string>
     <string name="title_activity_email">Email</string>
 
     <!-- Strings related to login -->
