@@ -1,4 +1,4 @@
-# FacebookTwitterGoogleLogins
+# Facebook Twitter Google Logins Samples
 
 Android Facebook Twitter Google Logins
 
