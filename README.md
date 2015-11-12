@@ -23,3 +23,8 @@ you have to give google the keyhash from your app and download a config json.
 
 
 For all above, you have sample code that works & is tested.
+
+### Troubleshooting 
+
+- did you read the documentation for it ?
+- did you generate the keys correctly ?
